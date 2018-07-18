@@ -98,7 +98,7 @@ class EditAccount extends Component {
             <div className="washed-blue heading">Account List</div>
           </div>
         </header>
-        <div>
+        <div style={ 'text-align': 'center' }>
           <form onSubmit={this.submit}>
           <div className="dt w-100 mb3 has-focus hk-hide-bb-last-row sortable-chosen">
             <div className="dt-row hover-bg-lightest-silver">
