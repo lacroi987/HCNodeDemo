@@ -88,7 +88,7 @@ class App extends Component {
             <div className="purple subheading">Listing Accounts from Salesforce Org</div>
           </div>
         </div>
-        <div>
+        <div className="spacing-top">
           { livedbMessage }
         </div>
         <div className="spacing-top">
