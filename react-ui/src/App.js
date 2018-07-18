@@ -91,10 +91,10 @@ class App extends Component {
         <div>
           { livedbMessage }
         </div>
-        <div style={width: '80%', margin: '15px auto'}>
+        <div className="spacing-top">
           <Link to="/accounts/new">Create New Account</Link>
         </div>
-        <div style={width: '80%', margin: '15px auto'}>
+        <div className="spacing-bottom">
           <div className="dt w-100 mb3 has-focus hk-hide-bb-last-row sortable-chosen">
             <div className="dtc pv3 b bb b--light-silver dark-gray f5">
               Account Name
