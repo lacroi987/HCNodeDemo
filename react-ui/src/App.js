@@ -70,7 +70,7 @@ class App extends Component {
         <div className="mb3 has-focus sortable-chosen">
           <div className="bt bb pa2 bg-lightest-red red b--light-red white">
             <div className="f4 b">
-              A database doesn't exist yet.
+              A database does not exist yet.
             </div>
           </div>
         </div>);
