@@ -44,7 +44,7 @@ class ShowAccount extends Component {
             <div className="washed-blue heading">Account List</div>
           </div>
         </header>
-        <div>
+        <div style={ {'text-align': 'center'} }>
           <div className="dt w-100 mb3 has-focus hk-hide-bb-last-row sortable-chosen">
             <div className="dt-row hover-bg-lightest-silver">
               <div className="dtc pv3 f4 gray bb b--light-silver">
