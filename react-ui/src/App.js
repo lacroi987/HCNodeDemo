@@ -85,7 +85,7 @@ class App extends Component {
         </header>
         <div>
           <div className="tc">
-            <div className="purple subheading">Listing Accounts from Salesforce Org</div>
+            <div className="purple subheading">Listing Accounts from Salesforce </div>
           </div>
         </div>
         <div className="spacing-top">
